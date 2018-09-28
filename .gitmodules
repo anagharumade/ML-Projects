@@ -1,0 +1,6 @@
+[submodule "Data-Analysis"]
+	path = Data-Analysis
+	url = https://github.com/anagharumade/Data-Analysis
+[submodule "K-means-Clustering"]
+	path = K-means-Clustering
+	url = https://github.com/anagharumade/K-means-Clustering
